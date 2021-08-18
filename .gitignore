@@ -1,0 +1,6 @@
+# Bazel created directories.
+
+/bazel-bin
+/bazel-Generations
+/bazel-out
+/bazel-testlogs
