@@ -1,6 +1,5 @@
-# Bazel created directories.
+# Intellij Files
+/out
+.idea/
+Generations.iml
 
-/bazel-bin
-/bazel-Generations
-/bazel-out
-/bazel-testlogs
